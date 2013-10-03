@@ -8,381 +8,393 @@ end
 
 -- I'd love to support full Unicode, but the number of nodes needed to do that would surpass the number of nodes allowed by Minetest. For now, I'll limit the character support to the characters supported in Minetest node names aside from the colon, which has a special meaning to the engine.
 
-minetest.register_node(":0gb_us:character_0", {
+minetest.register_node("character:0", {
 	description = "Character 0",
 	tiles = {imagename.."^0gb.us_0.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_1", {
+minetest.register_node("character:1", {
 	description = "Character 1",
 	tiles = {imagename.."^0gb.us_1.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_2", {
+minetest.register_node("character:2", {
 	description = "Character 2",
 	tiles = {imagename.."^0gb.us_2.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_3", {
+minetest.register_node("character:3", {
 	description = "Character 3",
 	tiles = {imagename.."^0gb.us_3.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_4", {
+minetest.register_node("character:4", {
 	description = "Character 4",
 	tiles = {imagename.."^0gb.us_4.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_5", {
+minetest.register_node("character:5", {
 	description = "Character 5",
 	tiles = {imagename.."^0gb.us_5.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_6", {
+minetest.register_node("character:6", {
 	description = "Character 6",
 	tiles = {imagename.."^0gb.us_6.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_7", {
+minetest.register_node("character:7", {
 	description = "Character 7",
 	tiles = {imagename.."^0gb.us_7.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_8", {
+minetest.register_node("character:8", {
 	description = "Character 8",
 	tiles = {imagename.."^0gb.us_8.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_9", {
+minetest.register_node("character:9", {
 	description = "Character 9",
 	tiles = {imagename.."^0gb.us_9.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_A", {
+minetest.register_node("character:A", {
 	description = "Character A",
 	tiles = {imagename.."^0gb.us_A.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_B", {
+minetest.register_node("character:B", {
 	description = "Character B",
 	tiles = {imagename.."^0gb.us_B.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_C", {
+minetest.register_node("character:C", {
 	description = "Character C",
 	tiles = {imagename.."^0gb.us_C.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_D", {
+minetest.register_node("character:D", {
 	description = "Character D",
 	tiles = {imagename.."^0gb.us_D.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_E", {
+minetest.register_node("character:E", {
 	description = "Character E",
 	tiles = {imagename.."^0gb.us_E.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_F", {
+minetest.register_node("character:F", {
 	description = "Character F",
 	tiles = {imagename.."^0gb.us_F.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_G", {
+minetest.register_node("character:G", {
 	description = "Character G",
 	tiles = {imagename.."^0gb.us_G.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_H", {
+minetest.register_node("character:H", {
 	description = "Character H",
 	tiles = {imagename.."^0gb.us_H.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_I", {
+minetest.register_node("character:I", {
 	description = "Character I",
 	tiles = {imagename.."^0gb.us_I.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_J", {
+minetest.register_node("character:J", {
 	description = "Character J",
 	tiles = {imagename.."^0gb.us_J.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_K", {
+minetest.register_node("character:K", {
 	description = "Character K",
 	tiles = {imagename.."^0gb.us_K.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_L", {
+minetest.register_node("character:L", {
 	description = "Character L",
 	tiles = {imagename.."^0gb.us_L.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_M", {
+minetest.register_node("character:M", {
 	description = "Character M",
 	tiles = {imagename.."^0gb.us_M.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_N", {
+minetest.register_node("character:N", {
 	description = "Character N",
 	tiles = {imagename.."^0gb.us_N.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_O", {
+minetest.register_node("character:O", {
 	description = "Character O",
 	tiles = {imagename.."^0gb.us_O.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_P", {
+minetest.register_node("character:P", {
 	description = "Character P",
 	tiles = {imagename.."^0gb.us_P.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_Q", {
+minetest.register_node("character:Q", {
 	description = "Character Q",
 	tiles = {imagename.."^0gb.us_Q.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_R", {
+minetest.register_node("character:R", {
 	description = "Character R",
 	tiles = {imagename.."^0gb.us_R.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_S", {
+minetest.register_node("character:S", {
 	description = "Character S",
 	tiles = {imagename.."^0gb.us_S.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_T", {
+minetest.register_node("character:T", {
 	description = "Character T",
 	tiles = {imagename.."^0gb.us_T.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_U", {
+minetest.register_node("character:U", {
 	description = "Character U",
 	tiles = {imagename.."^0gb.us_U.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_V", {
+minetest.register_node("character:V", {
 	description = "Character V",
 	tiles = {imagename.."^0gb.us_V.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_W", {
+minetest.register_node("character:W", {
 	description = "Character W",
 	tiles = {imagename.."^0gb.us_W.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_X", {
+minetest.register_node("character:X", {
 	description = "Character X",
 	tiles = {imagename.."^0gb.us_X.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_Y", {
+minetest.register_node("character:Y", {
 	description = "Character Y",
 	tiles = {imagename.."^0gb.us_Y.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_Z", {
+minetest.register_node("character:Z", {
 	description = "Character Z",
 	tiles = {imagename.."^0gb.us_Z.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character__", {
+minetest.register_node("character:_", {
 	description = "Character _",
 	tiles = {imagename.."^0gb.us__.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_a", {
+minetest.register_node("character:a", {
 	description = "Character a",
 	tiles = {imagename.."^0gb.us_a.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_b", {
+minetest.register_node("character:b", {
 	description = "Character b",
 	tiles = {imagename.."^0gb.us_b.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_c", {
+minetest.register_node("character:c", {
 	description = "Character c",
 	tiles = {imagename.."^0gb.us_c.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_d", {
+minetest.register_node("character:d", {
 	description = "Character d",
 	tiles = {imagename.."^0gb.us_d.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_e", {
+minetest.register_node("character:e", {
 	description = "Character e",
 	tiles = {imagename.."^0gb.us_e.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_f", {
+minetest.register_node("character:f", {
 	description = "Character f",
 	tiles = {imagename.."^0gb.us_f.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_g", {
+minetest.register_node("character:g", {
 	description = "Character g",
 	tiles = {imagename.."^0gb.us_g.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_h", {
+minetest.register_node("character:h", {
 	description = "Character h",
 	tiles = {imagename.."^0gb.us_h.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_i", {
+minetest.register_node("character:i", {
 	description = "Character i",
 	tiles = {imagename.."^0gb.us_i.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_j", {
+minetest.register_node("character:j", {
 	description = "Character j",
 	tiles = {imagename.."^0gb.us_j.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_k", {
+minetest.register_node("character:k", {
 	description = "Character k",
 	tiles = {imagename.."^0gb.us_k.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_l", {
+minetest.register_node("character:l", {
 	description = "Character l",
 	tiles = {imagename.."^0gb.us_l.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_m", {
+minetest.register_node("character:m", {
 	description = "Character m",
 	tiles = {imagename.."^0gb.us_m.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_n", {
+minetest.register_node("character:n", {
 	description = "Character n",
 	tiles = {imagename.."^0gb.us_n.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_o", {
+minetest.register_node("character:o", {
 	description = "Character o",
 	tiles = {imagename.."^0gb.us_o.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_p", {
+minetest.register_node("character:p", {
 	description = "Character p",
 	tiles = {imagename.."^0gb.us_p.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_q", {
+minetest.register_node("character:q", {
 	description = "Character q",
 	tiles = {imagename.."^0gb.us_q.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_r", {
+minetest.register_node("character:r", {
 	description = "Character r",
 	tiles = {imagename.."^0gb.us_r.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_s", {
+minetest.register_node("character:s", {
 	description = "Character s",
 	tiles = {imagename.."^0gb.us_s.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_t", {
+minetest.register_node("character:t", {
 	description = "Character t",
 	tiles = {imagename.."^0gb.us_t.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_u", {
+minetest.register_node("character:u", {
 	description = "Character u",
 	tiles = {imagename.."^0gb.us_u.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_v", {
+minetest.register_node("character:v", {
 	description = "Character v",
 	tiles = {imagename.."^0gb.us_v.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_w", {
+minetest.register_node("character:w", {
 	description = "Character w",
 	tiles = {imagename.."^0gb.us_w.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_x", {
+minetest.register_node("character:x", {
 	description = "Character x",
 	tiles = {imagename.."^0gb.us_x.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_y", {
+minetest.register_node("character:y", {
 	description = "Character y",
 	tiles = {imagename.."^0gb.us_y.png"},
 	groups = groups,
 })
 
-minetest.register_node(":0gb_us:character_z", {
+minetest.register_node("character:z", {
 	description = "Character z",
 	tiles = {imagename.."^0gb.us_z.png"},
+	groups = groups,
+})
+
+minetest.register_node("character:ampersand", {
+	description = "Character &",
+	tiles = {imagename.."^0gb.us_&.png"},
+	groups = groups,
+})
+
+minetest.register_node("character:dollarsign", {
+	description = "Character $",
+	tiles = {imagename.."^0gb.us_$.png"},
 	groups = groups,
 })
 

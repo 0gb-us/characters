@@ -3,7 +3,7 @@
 -- This means that there are seventeen recipes available for future expansion if we find critical characters that need to be added.
 
 minetest.register_craft({
-	output = '0gb_us:character_0',
+	output = 'character:0',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', ''            },
@@ -12,7 +12,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_1',
+	output = 'character:1',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', ''            , 'mapgen_stone'},
@@ -21,7 +21,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_2',
+	output = 'character:2',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{''            , 'mapgen_stone', 'mapgen_stone'},
@@ -30,7 +30,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_3',
+	output = 'character:3',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', ''            },
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -39,7 +39,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_4',
+	output = 'character:4',
 	recipe = {
 		{'mapgen_stone', ''            , 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -48,7 +48,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_5',
+	output = 'character:5',
 	recipe = {
 		{''            , 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -57,7 +57,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_6',
+	output = 'character:6',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', ''            },
@@ -66,7 +66,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_7',
+	output = 'character:7',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', ''            , 'mapgen_stone'},
@@ -75,7 +75,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_8',
+	output = 'character:8',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{''            , 'mapgen_stone', 'mapgen_stone'},
@@ -84,7 +84,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_9',
+	output = 'character:9',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', ''            },
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -93,7 +93,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_A',
+	output = 'character:A',
 	recipe = {
 		{'mapgen_stone', ''            , 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -102,7 +102,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_B',
+	output = 'character:B',
 	recipe = {
 		{''            , 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -111,7 +111,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_C',
+	output = 'character:C',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', ''            , ''            },
@@ -120,7 +120,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_D',
+	output = 'character:D',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{''            , 'mapgen_stone', ''            },
@@ -129,7 +129,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_E',
+	output = 'character:E',
 	recipe = {
 		{'mapgen_stone', ''            , 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', ''            },
@@ -138,7 +138,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_F',
+	output = 'character:F',
 	recipe = {
 		{''            , 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', ''            },
@@ -147,7 +147,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_G',
+	output = 'character:G',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{''            , ''            , 'mapgen_stone'},
@@ -156,7 +156,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_H',
+	output = 'character:H',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', ''            },
 		{'mapgen_stone', ''            , 'mapgen_stone'},
@@ -165,7 +165,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_I',
+	output = 'character:I',
 	recipe = {
 		{'mapgen_stone', ''            , 'mapgen_stone'},
 		{'mapgen_stone', ''            , 'mapgen_stone'},
@@ -174,7 +174,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_J',
+	output = 'character:J',
 	recipe = {
 		{''            , 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', ''            , 'mapgen_stone'},
@@ -183,7 +183,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_K',
+	output = 'character:K',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', ''            },
 		{''            , 'mapgen_stone', 'mapgen_stone'},
@@ -192,7 +192,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_L',
+	output = 'character:L',
 	recipe = {
 		{'mapgen_stone', ''            , 'mapgen_stone'},
 		{''            , 'mapgen_stone', 'mapgen_stone'},
@@ -201,7 +201,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_M',
+	output = 'character:M',
 	recipe = {
 		{''            , 'mapgen_stone', 'mapgen_stone'},
 		{''            , 'mapgen_stone', 'mapgen_stone'},
@@ -210,7 +210,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_N',
+	output = 'character:N',
 	recipe = {
 		{'mapgen_stone', ''            , ''            },
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -219,7 +219,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_O',
+	output = 'character:O',
 	recipe = {
 		{''            , 'mapgen_stone', ''            },
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -228,7 +228,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_P',
+	output = 'character:P',
 	recipe = {
 		{''            , ''            , 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -237,7 +237,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_Q',
+	output = 'character:Q',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', ''            },
@@ -246,7 +246,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_R',
+	output = 'character:R',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', ''            , 'mapgen_stone'},
@@ -255,7 +255,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_S',
+	output = 'character:S',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{''            , 'mapgen_stone', 'mapgen_stone'},
@@ -264,7 +264,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_T',
+	output = 'character:T',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', ''            },
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -273,7 +273,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_U',
+	output = 'character:U',
 	recipe = {
 		{'mapgen_stone', ''            , 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -282,7 +282,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_V',
+	output = 'character:V',
 	recipe = {
 		{''            , 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -291,7 +291,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_W',
+	output = 'character:W',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', ''            , ''            },
@@ -300,7 +300,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_X',
+	output = 'character:X',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{''            , 'mapgen_stone', ''            },
@@ -309,7 +309,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_Y',
+	output = 'character:Y',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', ''            },
 		{'mapgen_stone', 'mapgen_stone', ''            },
@@ -318,7 +318,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_Z',
+	output = 'character:Z',
 	recipe = {
 		{'mapgen_stone', ''            , 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', ''            },
@@ -327,7 +327,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character__',
+	output = 'character:_',
 	recipe = {
 		{''            , 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', ''            },
@@ -336,7 +336,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_a',
+	output = 'character:a',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{''            , ''            , 'mapgen_stone'},
@@ -345,7 +345,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_b',
+	output = 'character:b',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', ''            },
 		{'mapgen_stone', ''            , 'mapgen_stone'},
@@ -354,7 +354,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_c',
+	output = 'character:c',
 	recipe = {
 		{'mapgen_stone', ''            , 'mapgen_stone'},
 		{'mapgen_stone', ''            , 'mapgen_stone'},
@@ -363,7 +363,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_d',
+	output = 'character:d',
 	recipe = {
 		{''            , 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', ''            , 'mapgen_stone'},
@@ -372,7 +372,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_e',
+	output = 'character:e',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', ''            },
 		{''            , 'mapgen_stone', 'mapgen_stone'},
@@ -381,7 +381,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_f',
+	output = 'character:f',
 	recipe = {
 		{'mapgen_stone', ''            , 'mapgen_stone'},
 		{''            , 'mapgen_stone', 'mapgen_stone'},
@@ -390,7 +390,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_g',
+	output = 'character:g',
 	recipe = {
 		{''            , 'mapgen_stone', 'mapgen_stone'},
 		{''            , 'mapgen_stone', 'mapgen_stone'},
@@ -399,7 +399,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_h',
+	output = 'character:h',
 	recipe = {
 		{'mapgen_stone', ''            , ''            },
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -408,7 +408,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_i',
+	output = 'character:i',
 	recipe = {
 		{''            , 'mapgen_stone', ''            },
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -417,7 +417,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_j',
+	output = 'character:j',
 	recipe = {
 		{''            , ''            , 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -426,7 +426,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_k',
+	output = 'character:k',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', ''            , ''            },
@@ -435,7 +435,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_l',
+	output = 'character:l',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{''            , 'mapgen_stone', ''            },
@@ -444,7 +444,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_m',
+	output = 'character:m',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', ''            },
 		{'mapgen_stone', 'mapgen_stone', ''            },
@@ -453,7 +453,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_n',
+	output = 'character:n',
 	recipe = {
 		{'mapgen_stone', ''            , 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', ''            },
@@ -462,7 +462,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_o',
+	output = 'character:o',
 	recipe = {
 		{''            , 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', ''            },
@@ -471,7 +471,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_p',
+	output = 'character:p',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{''            , ''            , 'mapgen_stone'},
@@ -480,7 +480,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_q',
+	output = 'character:q',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', ''            },
 		{'mapgen_stone', ''            , 'mapgen_stone'},
@@ -489,7 +489,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_r',
+	output = 'character:r',
 	recipe = {
 		{'mapgen_stone', ''            , 'mapgen_stone'},
 		{'mapgen_stone', ''            , 'mapgen_stone'},
@@ -498,7 +498,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_s',
+	output = 'character:s',
 	recipe = {
 		{''            , 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', ''            , 'mapgen_stone'},
@@ -507,7 +507,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_t',
+	output = 'character:t',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', ''            },
 		{''            , 'mapgen_stone', 'mapgen_stone'},
@@ -516,7 +516,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_u',
+	output = 'character:u',
 	recipe = {
 		{'mapgen_stone', ''            , 'mapgen_stone'},
 		{''            , 'mapgen_stone', 'mapgen_stone'},
@@ -525,7 +525,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_v',
+	output = 'character:v',
 	recipe = {
 		{'mapgen_stone', ''            , ''            },
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -534,7 +534,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_w',
+	output = 'character:w',
 	recipe = {
 		{''            , 'mapgen_stone', ''            },
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -543,7 +543,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_x',
+	output = 'character:x',
 	recipe = {
 		{''            , ''            , 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
@@ -552,7 +552,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_y',
+	output = 'character:y',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 		{''            , ''            , ''            },
@@ -561,9 +561,27 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_z',
+	output = 'character:z',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', ''            },
+		{'mapgen_stone', ''            , ''            },
+		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
+	},
+})
+
+minetest.register_craft({
+	output = 'character:ampersand',
+	recipe = {
+		{'mapgen_stone', ''            , 'mapgen_stone'},
+		{'mapgen_stone', ''            , ''            },
+		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
+	},
+})
+
+minetest.register_craft({
+	output = 'character:dollarsign',
+	recipe = {
+		{''            , 'mapgen_stone', 'mapgen_stone'},
 		{'mapgen_stone', ''            , ''            },
 		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
 	},
@@ -571,25 +589,7 @@ minetest.register_craft({
 
 --[[
 minetest.register_craft({
-	output = '0gb_us:character_*',
-	recipe = {
-		{'mapgen_stone', ''            , 'mapgen_stone'},
-		{'mapgen_stone', ''            , ''            },
-		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
-	},
-})
-
-minetest.register_craft({
-	output = '0gb_us:character_*',
-	recipe = {
-		{''            , 'mapgen_stone', 'mapgen_stone'},
-		{'mapgen_stone', ''            , ''            },
-		{'mapgen_stone', 'mapgen_stone', 'mapgen_stone'},
-	},
-})
-
-minetest.register_craft({
-	output = '0gb_us:character_*',
+	output = 'character:*',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', ''            },
 		{''            , 'mapgen_stone', ''            },
@@ -598,7 +598,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_*',
+	output = 'character:*',
 	recipe = {
 		{'mapgen_stone', ''            , 'mapgen_stone'},
 		{''            , 'mapgen_stone', ''            },
@@ -607,7 +607,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_*',
+	output = 'character:*',
 	recipe = {
 		{''            , 'mapgen_stone', 'mapgen_stone'},
 		{''            , 'mapgen_stone', ''            },
@@ -616,7 +616,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_*',
+	output = 'character:*',
 	recipe = {
 		{'mapgen_stone', ''            , ''            },
 		{'mapgen_stone', 'mapgen_stone', ''            },
@@ -625,7 +625,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_*',
+	output = 'character:*',
 	recipe = {
 		{''            , 'mapgen_stone', ''            },
 		{'mapgen_stone', 'mapgen_stone', ''            },
@@ -634,7 +634,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_*',
+	output = 'character:*',
 	recipe = {
 		{''            , ''            , 'mapgen_stone'},
 		{'mapgen_stone', 'mapgen_stone', ''            },
@@ -643,7 +643,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_*',
+	output = 'character:*',
 	recipe = {
 		{'mapgen_stone', 'mapgen_stone', ''            },
 		{''            , ''            , 'mapgen_stone'},
@@ -652,7 +652,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_*',
+	output = 'character:*',
 	recipe = {
 		{'mapgen_stone', ''            , 'mapgen_stone'},
 		{''            , ''            , 'mapgen_stone'},
@@ -661,7 +661,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_*',
+	output = 'character:*',
 	recipe = {
 		{''            , 'mapgen_stone', 'mapgen_stone'},
 		{''            , ''            , 'mapgen_stone'},
@@ -670,7 +670,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_*',
+	output = 'character:*',
 	recipe = {
 		{'mapgen_stone', ''            , ''            },
 		{'mapgen_stone', ''            , 'mapgen_stone'},
@@ -679,7 +679,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_*',
+	output = 'character:*',
 	recipe = {
 		{''            , 'mapgen_stone', ''            },
 		{'mapgen_stone', ''            , 'mapgen_stone'},
@@ -688,7 +688,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_*',
+	output = 'character:*',
 	recipe = {
 		{''            , ''            , 'mapgen_stone'},
 		{'mapgen_stone', ''            , 'mapgen_stone'},
@@ -697,7 +697,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_*',
+	output = 'character:*',
 	recipe = {
 		{'mapgen_stone', ''            , ''            },
 		{''            , 'mapgen_stone', 'mapgen_stone'},
@@ -706,7 +706,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_*',
+	output = 'character:*',
 	recipe = {
 		{''            , 'mapgen_stone', ''            },
 		{''            , 'mapgen_stone', 'mapgen_stone'},
@@ -715,7 +715,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-	output = '0gb_us:character_*',
+	output = 'character:*',
 	recipe = {
 		{''            , ''            , 'mapgen_stone'},
 		{''            , 'mapgen_stone', 'mapgen_stone'},
